@@ -1,0 +1,12 @@
+# Virtual environment (recreate with: pip install -r requirements.txt)
+.venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Environment variables / secrets (API keys go here in Module 7 — never commit this)
+.env
+
+# Editor/OS junk
+.DS_Store

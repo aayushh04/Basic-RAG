@@ -1,0 +1,26 @@
+Course Handbook Excerpt: CS301 - Data Structures and Algorithms
+
+Instructor: Dr. Priya Nair
+Credits: 4
+Semester: Fall
+
+Grading breakdown:
+- Midterm exam: 25%
+- Final exam: 35%
+- Assignments (4 total): 20%
+- Lab work: 15%
+- Class participation: 5%
+
+Attendance policy:
+Students must maintain at least 75% attendance to be eligible for the final exam.
+Two late arrivals count as one absence.
+Medical leave requires a certificate submitted within 7 days.
+
+Assignment submission rules:
+Assignments are submitted via the course portal before 11:59 PM on the due date.
+Late submissions lose 10% of the assignment's marks per day, up to 3 days late.
+After 3 days, the assignment receives a zero unless an extension was approved in advance.
+
+Office hours:
+Dr. Nair holds office hours every Tuesday and Thursday, 2:00 PM to 4:00 PM, in Room 214.
+Teaching assistants hold additional help sessions on Mondays, 5:00 PM to 6:00 PM, in the CS lab.

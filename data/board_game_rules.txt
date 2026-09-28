@@ -1,0 +1,21 @@
+Rules for "Star Traders" (a 2-4 player board game)
+
+Setup:
+Each player starts with 5 gold coins, 3 cargo ships, and 1 home planet card.
+Shuffle the resource deck and deal 4 resource cards to each player.
+Place the trade hub token in the center of the board.
+
+Turn structure:
+Each turn has three phases: Collect, Trade, and Build.
+In the Collect phase, players gain 2 gold coins from their home planet.
+In the Trade phase, players may exchange resource cards with the bank at a rate of 3 resources for 1 gold coin.
+In the Build phase, players may spend gold coins to build outposts (cost: 4 gold coins each).
+
+Winning the game:
+A player wins immediately if they control 5 outposts.
+If the resource deck runs out, the game ends and whoever has the most gold coins wins.
+Players are eliminated if they run out of both gold coins and resource cards for two consecutive turns.
+
+Special rule - Pirate Raids:
+Every 5th turn, a Pirate Raid occurs. Each player must pay 1 gold coin or lose 1 cargo ship.
+Players with zero cargo ships cannot participate in the Trade phase.
