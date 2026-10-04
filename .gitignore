@@ -5,6 +5,9 @@
 __pycache__/
 *.pyc
 
+# Vector index (regenerate with: python src/04_build_index.py)
+index/
+
 # Environment variables / secrets (API keys go here in Module 7 — never commit this)
 .env
 
